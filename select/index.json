@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "いとをかし (album ver.)",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-09T20:55:15.238049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いとをかし",
+      "artist": "MONOBRIGHT",
+      "has_synced": true,
+      "path": "select/01_いとをかし_MONOBRIGHT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いとをかし",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_いとをかし_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いとをかし",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/03_いとをかし_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いとをかし",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/pl_01_いとをかし_Sheena_Ringo.txt"
+    }
+  ]
+}
